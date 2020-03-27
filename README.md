@@ -22,8 +22,4 @@ Technologies Used:
 - MongoDB: This is the backend used for data storage purpose
 - Mongoose: Helps in integrating MongoDB at server side
 
-To see website: http://ide-cs5610puri.rhcloud.com/#/home <br>
-To see complete documentation: http://net4.ccs.neu.edu/home/puri/story/index.htm?../Experiments/doc.txt <br>
-To see demo video: https://www.youtube.com/watch?v=IbZoCDqO20Y <br>
-
 Happy Travelling :)
